@@ -1,2 +1,2 @@
-# A Text-Conditioned Wavelet-Blur–Gaussian Hybrid Diffusion Framework for Brain Tumor MRI Segmentation
+# Semantic–Spatial Cross-Attention Conditioned Wavelet–Gaussian Hybrid Diffusion for Brain Tumor MRI Segmentation
 Our code will be update soon.
